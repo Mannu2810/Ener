@@ -1,0 +1,40 @@
+h1.titol{
+    text-align: center;
+    font-weight: bold;
+}
+
+div.groc{
+    background-color: yellow;
+    width: 33%;
+    color: yellow;
+    height: 100px;
+    display: inline-block;
+}
+div.blau{
+    color: blue;
+    background-color: blue;
+    width: 33%;
+    height: 100px;
+    display: inline-block;
+}
+div.roig{
+    color:red;
+    background-color:red;
+    width: 33%;
+    height: 100px;
+    display: inline-block;
+}
+div.footer{
+    background-color: green;
+    display: inline-block;
+    width: 100%;
+    height: 2cm;
+}
+span.estudiar{
+    text-decoration: underline;
+}
+p.abajo{
+    background-color: yellow;
+    display: block;
+    width: 100%;
+}
